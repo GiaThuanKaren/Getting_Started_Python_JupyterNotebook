@@ -56,3 +56,10 @@ for x in range(2, 7):
     else:
         print(x)
 
+# Khai báo hàm ( Function)
+
+
+def Tich(a, b):
+    return a+b
+
+print(Tich(1,2))
