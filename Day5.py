@@ -78,3 +78,23 @@ c = ["mixed type", True, 42]
 # a=[2,3,5,7]
 # a[0],a[1]=a[1],a[0]
 
+# lặp qua các phần tử trong list
+
+# a= [2,3,5,7];
+#dùng for item in a
+# for index in range(len(a))
+
+# duyệt ngược mảng
+# dùng hàm reverse()
+
+# copy list 
+# import copy
+# a = [2, 3]
+# b = copy.copy(a)
+# c = a[:]
+# d = a + [ ]
+# e = list(a)
+# f = sorted(a)
+# a[0] = 42
+# print(a, b, c, d, e, f)
+
