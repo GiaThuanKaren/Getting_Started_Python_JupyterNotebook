@@ -7,6 +7,9 @@
 # các thao tác với chuỗi trên python
 # -> tương tác như mảng
 
+import zipapp
+
+
 word = "Python"
 
 print(word[0])  # Lấy phần tử đầu tiên của chuỗi
@@ -22,4 +25,6 @@ print(word[:2] ) # các ký tự từ đầu đến vị trí thứ 2 (loại b�
 
 print(word[4:]) # các ký tự từ vị trí thứ 4(lấy) đến hết
 
-print(word[-3:])
+print(word[-3:]) #
+
+
